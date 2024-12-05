@@ -1,0 +1,1 @@
+// find total marks and percentage of five subjecta
